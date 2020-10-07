@@ -1,0 +1,6 @@
+slides
+data
+
+*.pyc
+*.exe
+*.obj
